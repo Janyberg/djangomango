@@ -25,7 +25,7 @@ SECRET_KEY = '&42*o9n4a&rreof2g=zk5)#ma#0$fq=@#((0wg+=#)u#bp#256'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '.hopeofkg.ml', '138.68.86.27']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '.hopeofkg.ml', '159.89.96.10']
 
 
 # Application definition
