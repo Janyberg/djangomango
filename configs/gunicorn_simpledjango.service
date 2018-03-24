@@ -5,7 +5,7 @@ After=network.target
 
 [Service]
 PermissionsStartOnly=True
-User=ilgiz
+User=david
 Group=www-data
 RuntimeDirectory=gunicorn
 RuntimeDirectoryMode=0775
